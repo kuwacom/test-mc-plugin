@@ -1,0 +1,4 @@
+name: Kuna
+version: '1.0-SNAPSHOT'
+main: test.kuna.Dash
+api-version: 1.18

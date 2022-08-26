@@ -1,0 +1,4 @@
+name: Kuna
+version: '${project.version}'
+main: test.kuna.Dash
+api-version: 1.18
